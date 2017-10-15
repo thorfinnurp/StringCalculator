@@ -1,0 +1,2 @@
+# StringCalculator
+Gagnasafnsfræði, Þorfinnur Pétursson
